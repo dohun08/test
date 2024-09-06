@@ -1,6 +1,5 @@
 aaaaaa
 bbbbbb
-rrrrrr
 ccccccc
 dddddd
 eeee
